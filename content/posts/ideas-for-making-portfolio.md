@@ -1,7 +1,6 @@
 ---
 title: "Ideas for Making Portfolio"
 date: 2019-08-27T07:14:12+07:00
-draft: true
 ---
 
 Need to expand your portfolio but you don't have any clients? Easy.
