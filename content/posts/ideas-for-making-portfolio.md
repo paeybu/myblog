@@ -1,8 +1,8 @@
 ---
-title: "Ideas for Making Portfolio"
-date: 2019-08-27T07:14:12+07:00
----
+title: Ideas for Making Portfolio
+date: 2019-08-27T00:14:12.000+00:00
 
+---
 Need to expand your portfolio but you don't have any clients? Easy.
 
 Make something up.
@@ -11,6 +11,7 @@ Make what? Make a website, make an app, anything. If you need content, just goog
 https://picsum.photos  
 https://loremflickr.com  
 https://placekitten.com
+
 Need some random text content?  
 https://randomwordgenerator.com/sentence.php
 
