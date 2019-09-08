@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 title = "API Post and OPTIONS"
 
 +++
